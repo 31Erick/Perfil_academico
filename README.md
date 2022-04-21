@@ -9,9 +9,9 @@
 
 ##### Correo eletronico: erick.ruiz@ucr.ac.cr
 
-***Áreas de interés***
+***Áreas de interés***  
 
-**- Computación  **
-**- Diseño grafico  **  
-**- Telecomunicacionés**
-**- Creación y actualización de mapeos de zonas protegidas**
+-**Computación**  
+-**Diseño grafico**  
+-**Telecomunicacionés**  
+-**Creación y actualización de mapeos de zonas protegidas**  
