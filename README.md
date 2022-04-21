@@ -1,5 +1,11 @@
 ## ***Perfil académico de Erick Ruiz***  
 
-#### Estudiante de Bach. y Lic. geografia [Universidad de Costa Rica](https://www.ucr.ac.cr/)     
+ <img src="Oso_panda.jpg" alt="panda" width="100" height="75"> 
 
- <img src="Oso_panda.jpg" alt="panda" width="100" height="50"> 
+#### Estudiante de Bach. y Lic. geografia [Universidad de Costa Rica](https://www.ucr.ac.cr/)   
+
+### Voluntario de la [Cruz Roja Costarricense](https://www.cruzroja.or.cr/)   
+###### ***Curso Basico en Primeros Auxilios***  
+
+##### Correo eletronico: erick.ruiz@ucr.ac.cr
+
