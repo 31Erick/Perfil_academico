@@ -11,7 +11,7 @@
 
 ***Áreas de interés***  
 
--**Computación**  
--**Diseño grafico**  
--**Telecomunicacionés**  
--**Creación y actualización de mapeos de zonas protegidas**  
+- **Computación**  
+- **Diseño grafico**  
+- **Telecomunicacionés**  
+- **Creación y actualización de mapeos de zonas protegidas**  
