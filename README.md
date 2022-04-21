@@ -2,5 +2,4 @@
 
 #### Estudiante de Bach. y Lic. geografia [Universidad de Costa Rica](https://www.ucr.ac.cr/)     
 
-
-![](Oso_panda.jpg)width="200" height="400"
+ <img src="Oso_panda.jpg" alt="panda" width="200" height="400"> 
